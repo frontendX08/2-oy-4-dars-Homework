@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    overflow-x: hidden;
+}
+
 .container {
     width: 1600px;
     height: 3000px;
